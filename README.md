@@ -1,4 +1,6 @@
-# Project-IntroBads
+# Project Subject BADS6001 : IntroBads
+
+Project “ What ingredient do you have?"
 
 กชกร เลื่อนสุขสันต์
 
@@ -6,7 +8,6 @@
 
 สลิลวสุ เที่ยงธรรม
 
-Project “ What ingredient do you have?"
 Where we get the data?
   1. www.Kapook.com
   2. www.FIT KAB DAO.com
